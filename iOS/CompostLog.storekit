@@ -1,0 +1,27 @@
+{
+  "identifier" : "compostlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "compostlog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited entries and pro features.",
+          "displayName" : "Compost Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.compostlog.pro",
+      "referenceName" : "Compost Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
